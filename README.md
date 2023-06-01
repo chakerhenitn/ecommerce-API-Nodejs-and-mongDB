@@ -1,6 +1,7 @@
-# ecommerce_app
+# ecommerce API with nodejs and mongoDB
 It is an advanced ecommerce API created with node js and MongoDb
-It contains the following parts: 
+It contains the following parts:
+<h2>
 1: Orders
 2: Products
 3: Categories
@@ -11,3 +12,4 @@ It contains the following parts:
 8: Appload an array of files (galery)
 9: Error handler
 10: jwt
+        </h2>
